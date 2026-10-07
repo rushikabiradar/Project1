@@ -1,2 +1,2 @@
 # Project1
-Basics of Git
+Basics of Git -by Rushika
